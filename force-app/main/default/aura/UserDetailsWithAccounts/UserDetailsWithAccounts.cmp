@@ -1,0 +1,23 @@
+<aura:component controller="UserDetailsController" implements="force:appHostable,flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" access="global" >
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+     <aura:attribute name="objUserDetailsController" type="UserDetailsController" />
+     
+    <div style="border:1px solid black; padding:18px; background-color:lightgreen">
+    	<li> My Name is {!v.objUserDetailsController.DeveloperName}.</li>
+        <li> My age is {!v.objUserDetailsController.DeveloperAge}.</li>
+        <li> My Category is {!v.objUserDetailsController.ArticleName}.</li>
+    </div> 
+    
+    <div style="border:1px solid black; padding:18px; background-color:lightblue">
+        Account List:- 
+        <aura:iteration items="{!v.objUserDetailsController.lstofAccount}" var="oAcc">
+        	<li>{!oAcc.Name}</li>
+        </aura:iteration>
+        <br></br>
+        Articles List:- 
+        <aura:iteration items="{!v.objUserDetailsController.lstofFunimation}" var="oFun">
+        	<li>{!oFun.Name}</li>
+        </aura:iteration>  
+    </div>
+    
+</aura:component>

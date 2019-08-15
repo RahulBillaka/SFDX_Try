@@ -1,0 +1,45 @@
+<apex:page controller="TestVF2">
+    <apex:form >
+        <apex:pageBlock >
+            <apex:pageBlockButtons >
+                <apex:commandButton action="{!createAccount}" value="Save"/>
+                <apex:commandButton action="{!createAccount}" value="Save&New"/>
+                <apex:commandButton action="{!createAccount}" value="Cancel"/>
+                    </apex:pageBlockButtons>
+            
+            
+            <apex:pageBlockSection title="Account Detail" columns="2">
+            <apex:inputField value="{!objAccount.Name}"/>
+                <apex:inputField value="{!objContact.Phone}"/>
+                <apex:inputField value="{!objAccount.ParentId}"/>
+                <apex:inputField value="{!objAccount.Rating}"/>
+                <apex:inputField value="{!objContact.Phone}"/>
+                <apex:inputField value="{!objAccount.Name}"/>
+               <!-- <apex:inputField value="{!objAccount.Rating}"/> -->
+                <apex:inputField value="{!objAccount.NumberOfEmployees}"/>
+                <apex:inputField value="{!objAccount.Rating}"/>
+                <apex:inputField value="{!objAccount.Rating}"/>
+                <apex:inputField value="{!objAccount.Rating}"/>
+                <apex:inputField value="{!objAccount.Rating}"/>
+                <apex:inputField value="{!objAccount.Rating}"/>
+                <apex:inputField value="{!objAccount.Rating}"/>
+                
+                </apex:pageBlockSection>
+            <apex:pageBlockSection title="Contact Details" columns="2">
+            <apex:inputField value="{!objAccount.Name}"/>
+                <apex:inputField value="{!objContact.Phone}"/>
+                <apex:inputField value="{!objAccount.ParentId}"/>
+                <apex:inputField value="{!objAccount.Rating}"/>
+                </apex:pageBlockSection>
+            <apex:pageBlockSection title="Position Details" columns="2">
+            <apex:inputField value="{!objAccount.Name}"/>
+                <apex:inputField value="{!objContact.Phone}"/>
+                <apex:inputField value="{!objAccount.ParentId}"/>
+                <apex:inputField value="{!objAccount.Rating}"/>
+                </apex:pageBlockSection>        
+               
+                               
+
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

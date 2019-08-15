@@ -1,0 +1,25 @@
+.THIS {
+}
+
+H1.THIS {
+    font-size: 40px;
+    background-color:#00004d;
+}
+
+.THIS .btn-refer {
+    position: absolute;
+    right: 20px;
+}
+
+.THIS .background {
+    position: relative;
+    padding: 15px 0 15px 0;
+    width: 998px;
+    height: 248px;
+    margin-left: 17px;
+}
+
+.THIS .background img{
+    min-width: 100%;
+    width: 100%;
+}

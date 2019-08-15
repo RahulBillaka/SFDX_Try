@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Max_Pay_Rule</fullName>
+    <active>true</active>
+    <description>Prevent the User from creating the record if the pay is less than or equal to 20000</description>
+    <errorConditionFormula>Minimum_Pay__c &gt; Maximum_Pay__c</errorConditionFormula>
+    <errorDisplayField>Maximum_Pay__c</errorDisplayField>
+    <errorMessage>The Maximum pay cannot be less than minimum pay.</errorMessage>
+</ValidationRule>

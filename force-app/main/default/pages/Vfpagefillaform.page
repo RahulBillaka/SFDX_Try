@@ -1,0 +1,14 @@
+<apex:page >
+    <apex:form >
+    
+    <h1> Please fill the form: </h1> <br/><br/> 
+    Enter Name: <apex:inputtext Id="Name"/> <br/><br/>
+    Enter Age: <apex:inputtext Id="Age"/><br/><br/>
+    Enter UserName: <apex:inputText Id="UserName"/><br/><br/>
+    Enter Password: <apex:inputSecret Id="Password"/><br/><br/>
+    Cover Letter: <apex:inputTextarea Id="CoverLetter"/><br/><br/>
+    Citizen:<apex:inputCheckbox Id="Citizen"/><br/><br/>
+        
+    
+    </apex:form>
+</apex:page>

@@ -1,0 +1,13 @@
+<apex:page >
+  <apex:form >
+      <apex:panelBar >
+          <apex:panelbaritem label="Item 1"> One Piece </apex:panelbaritem>
+          <apex:panelBarItem label="Item 2">Boku No Hero Acadamia</apex:panelBarItem>
+          <apex:panelBarItem label="Item 3">Shingeki No Kyojin</apex:panelBarItem>
+      
+      
+      </apex:panelBar>
+  
+  
+  </apex:form>
+</apex:page>

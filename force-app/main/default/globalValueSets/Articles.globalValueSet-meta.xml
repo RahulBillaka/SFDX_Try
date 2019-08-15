@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>009-1</fullName>
+        <default>false</default>
+        <label>009-1</label>
+    </customValue>
+    <customValue>
+        <fullName>009 Re:Cyborg</fullName>
+        <default>false</default>
+        <label>009 Re:Cyborg</label>
+    </customValue>
+    <customValue>
+        <fullName>18if</fullName>
+        <default>false</default>
+        <label>18if</label>
+    </customValue>
+    <customValue>
+        <fullName>2001 Nights</fullName>
+        <default>false</default>
+        <label>2001 Nights</label>
+    </customValue>
+    <customValue>
+        <fullName>91 Days</fullName>
+        <default>false</default>
+        <label>91 Days</label>
+    </customValue>
+    <customValue>
+        <fullName>Absolute Duo</fullName>
+        <default>false</default>
+        <label>Absolute Duo</label>
+    </customValue>
+    <customValue>
+        <fullName>ACCA: 13-Territory Inspection Dept.</fullName>
+        <default>false</default>
+        <label>ACCA: 13-Territory Inspection Dept.</label>
+    </customValue>
+    <customValue>
+        <fullName>Ace Attorney (TV series)</fullName>
+        <default>false</default>
+        <label>Ace Attorney (TV series)</label>
+    </customValue>
+    <customValue>
+        <fullName>A Centaur&#39;s Life</fullName>
+        <default>false</default>
+        <label>A Centaur&#39;s Life</label>
+    </customValue>
+    <customValue>
+        <fullName>A Certain Magical Index</fullName>
+        <default>false</default>
+        <label>A Certain Magical Index</label>
+    </customValue>
+    <customValue>
+        <fullName>A Certain Magical Index: The Movie – The Miracle of Endymion</fullName>
+        <default>false</default>
+        <label>A Certain Magical Index: The Movie – The Miracle of Endymion</label>
+    </customValue>
+    <customValue>
+        <fullName>A Certain Scientific Railgun</fullName>
+        <default>false</default>
+        <label>A Certain Scientific Railgun</label>
+    </customValue>
+    <customValue>
+        <fullName>Aesthetica of a Rogue Hero</fullName>
+        <default>false</default>
+        <label>Aesthetica of a Rogue Hero</label>
+    </customValue>
+    <customValue>
+        <fullName>Afro Samurai</fullName>
+        <default>false</default>
+        <label>Afro Samurai</label>
+    </customValue>
+    <customValue>
+        <fullName>Afro Samurai: Resurrection</fullName>
+        <default>false</default>
+        <label>Afro Samurai: Resurrection</label>
+    </customValue>
+    <customValue>
+        <fullName>Air (2005 film)</fullName>
+        <default>false</default>
+        <label>Air (2005 film)</label>
+    </customValue>
+    <customValue>
+        <fullName>Air (visual novel)</fullName>
+        <default>false</default>
+        <label>Air (visual novel)</label>
+    </customValue>
+    <customValue>
+        <fullName>Air Gear</fullName>
+        <default>false</default>
+        <label>Air Gear</label>
+    </customValue>
+    <customValue>
+        <fullName>Air Master</fullName>
+        <default>false</default>
+        <label>Air Master</label>
+    </customValue>
+    <customValue>
+        <fullName>Ai Tenchi Muyo!</fullName>
+        <default>false</default>
+        <label>Ai Tenchi Muyo!</label>
+    </customValue>
+    <customValue>
+        <fullName>Ai Yori Aoshi</fullName>
+        <default>false</default>
+        <label>Ai Yori Aoshi</label>
+    </customValue>
+    <customValue>
+        <fullName>Akashic Records of Bastard Magic Instructor</fullName>
+        <default>false</default>
+        <label>Akashic Records of Bastard Magic Instructor</label>
+    </customValue>
+    <customValue>
+        <fullName>Akiba&#39;s Trip: The Animation</fullName>
+        <default>false</default>
+        <label>Akiba&#39;s Trip: The Animation</label>
+    </customValue>
+    <customValue>
+        <fullName>Akira (1988 film)</fullName>
+        <default>false</default>
+        <label>Akira (1988 film)</label>
+    </customValue>
+    <customValue>
+        <fullName>Alderamin on the Sky</fullName>
+        <default>false</default>
+        <label>Alderamin on the Sky</label>
+    </customValue>
+    <customValue>
+        <fullName>Alice &amp; Zoroku</fullName>
+        <default>false</default>
+        <label>Alice &amp; Zoroku</label>
+    </customValue>
+    <customValue>
+        <fullName>Alien vs Ninja</fullName>
+        <default>false</default>
+        <label>Alien vs Ninja</label>
+    </customValue>
+    <customValue>
+        <fullName>All Out!!</fullName>
+        <default>false</default>
+        <label>All Out!!</label>
+    </customValue>
+    <customValue>
+        <fullName>And You Thought There Is Never a Girl Online?</fullName>
+        <default>false</default>
+        <label>And You Thought There Is Never a Girl Online?</label>
+    </customValue>
+    <customValue>
+        <fullName>Angel Links</fullName>
+        <default>false</default>
+        <label>Angel Links</label>
+    </customValue>
+    <customValue>
+        <fullName>Angels of Death (video game)</fullName>
+        <default>false</default>
+        <label>Angels of Death (video game)</label>
+    </customValue>
+    <customValue>
+        <fullName>Anime-Gatari</fullName>
+        <default>false</default>
+        <label>Anime-Gatari</label>
+    </customValue>
+    <customValue>
+        <fullName>Aokana: Four Rhythm Across the Blue</fullName>
+        <default>false</default>
+        <label>Aokana: Four Rhythm Across the Blue</label>
+    </customValue>
+    <customValue>
+        <fullName>Appleseed XIII</fullName>
+        <default>false</default>
+        <label>Appleseed XIII</label>
+    </customValue>
+    <customValue>
+        <fullName>Aquarion Evol</fullName>
+        <default>false</default>
+        <label>Aquarion Evol</label>
+    </customValue>
+    <customValue>
+        <fullName>Aquarion Logos</fullName>
+        <default>false</default>
+        <label>Aquarion Logos</label>
+    </customValue>
+    <customValue>
+        <fullName>Aria the Scarlet Ammo</fullName>
+        <default>false</default>
+        <label>Aria the Scarlet Ammo</label>
+    </customValue>
+    <customValue>
+        <fullName>Armitage III</fullName>
+        <default>false</default>
+        <label>Armitage III</label>
+    </customValue>
+    <customValue>
+        <fullName>Assassination Classroom</fullName>
+        <default>false</default>
+        <label>Assassination Classroom</label>
+    </customValue>
+    <customValue>
+        <fullName>Assassination Classroom: Graduation</fullName>
+        <default>false</default>
+        <label>Assassination Classroom: Graduation</label>
+    </customValue>
+    <customValue>
+        <fullName>Assassination Classroom (film)</fullName>
+        <default>false</default>
+        <label>Assassination Classroom (film)</label>
+    </customValue>
+    <customValue>
+        <fullName>As the Gods Will (film)</fullName>
+        <default>false</default>
+        <label>As the Gods Will (film)</label>
+    </customValue>
+    <customValue>
+        <fullName>Athena: Goddess of War</fullName>
+        <default>false</default>
+        <label>Athena: Goddess of War</label>
+    </customValue>
+    <customValue>
+        <fullName>Attack on Titan</fullName>
+        <default>false</default>
+        <label>Attack on Titan</label>
+    </customValue>
+    <customValue>
+        <fullName>Attack on Titan: Junior High</fullName>
+        <default>false</default>
+        <label>Attack on Titan: Junior High</label>
+    </customValue>
+    <customValue>
+        <fullName>Attack on Titan (film)</fullName>
+        <default>false</default>
+        <label>Attack on Titan (film)</label>
+    </customValue>
+    <customValue>
+        <fullName>Baccano!</fullName>
+        <default>false</default>
+        <label>Baccano!</label>
+    </customValue>
+    <customValue>
+        <fullName>Baka and Test</fullName>
+        <default>false</default>
+        <label>Baka and Test</label>
+    </customValue>
+    <customValue>
+        <fullName>Baki the Grappler</fullName>
+        <default>false</default>
+        <label>Baki the Grappler</label>
+    </customValue>
+    <customValue>
+        <fullName>Baldr Force</fullName>
+        <default>false</default>
+        <label>Baldr Force</label>
+    </customValue>
+    <customValue>
+        <fullName>Bamboo Blade</fullName>
+        <default>false</default>
+        <label>Bamboo Blade</label>
+    </customValue>
+    <customValue>
+        <fullName>Banner of the Stars</fullName>
+        <default>false</default>
+        <label>Banner of the Stars</label>
+    </customValue>
+    <customValue>
+        <fullName>Barakamon</fullName>
+        <default>false</default>
+        <label>Barakamon</label>
+    </customValue>
+    <customValue>
+        <fullName>Basilisk (manga)</fullName>
+        <default>false</default>
+        <label>Basilisk (manga)</label>
+    </customValue>
+    <customValue>
+        <fullName>Bastard Swordsman</fullName>
+        <default>false</default>
+        <label>Bastard Swordsman</label>
+    </customValue>
+    <customValue>
+        <fullName>Bayonetta: Bloody Fate</fullName>
+        <default>false</default>
+        <label>Bayonetta: Bloody Fate</label>
+    </customValue>
+    <customValue>
+        <fullName>Beck (manga)</fullName>
+        <default>false</default>
+        <label>Beck (manga)</label>
+    </customValue>
+    <customValue>
+        <fullName>Ben-To</fullName>
+        <default>false</default>
+        <label>Ben-To</label>
+    </customValue>
+    <customValue>
+        <fullName>Berserk (2016 TV series)</fullName>
+        <default>false</default>
+        <label>Berserk (2016 TV series)</label>
+    </customValue>
+    <customValue>
+        <fullName>Beyblade</fullName>
+        <default>false</default>
+        <label>Beyblade</label>
+    </customValue>
+    <customValue>
+        <fullName>B Gata H Kei</fullName>
+        <default>false</default>
+        <label>B Gata H Kei</label>
+    </customValue>
+    <customValue>
+        <fullName>Big Fish &amp; Begonia</fullName>
+        <default>false</default>
+        <label>Big Fish &amp; Begonia</label>
+    </customValue>
+    <customValue>
+        <fullName>Big Windup!</fullName>
+        <default>false</default>
+        <label>Big Windup!</label>
+    </customValue>
+    <customValue>
+        <fullName>Bikini Warriors</fullName>
+        <default>false</default>
+        <label>Bikini Warriors</label>
+    </customValue>
+    <customValue>
+        <fullName>Birdy the Mighty</fullName>
+        <default>false</default>
+        <label>Birdy the Mighty</label>
+    </customValue>
+    <customValue>
+        <fullName>Black Blood Brothers</fullName>
+        <default>false</default>
+        <label>Black Blood Brothers</label>
+    </customValue>
+    <customValue>
+        <fullName>Black Butler</fullName>
+        <default>false</default>
+        <label>Black Butler</label>
+    </customValue>
+    <customValue>
+        <fullName>Black Butler: Book of the Atlantic</fullName>
+        <default>false</default>
+        <label>Black Butler: Book of the Atlantic</label>
+    </customValue>
+    <customValue>
+        <fullName>Black Butler (film)</fullName>
+        <default>false</default>
+        <label>Black Butler (film)</label>
+    </customValue>
+    <customValue>
+        <fullName>Black Cat (manga)</fullName>
+        <default>false</default>
+        <label>Black Cat (manga)</label>
+    </customValue>
+    <customValue>
+        <fullName>Black Clover</fullName>
+        <default>false</default>
+        <label>Black Clover</label>
+    </customValue>
+    <customValue>
+        <fullName>Black Lagoon</fullName>
+        <default>false</default>
+        <label>Black Lagoon</label>
+    </customValue>
+    <customValue>
+        <fullName>Blade of the Phantom Master</fullName>
+        <default>false</default>
+        <label>Blade of the Phantom Master</label>
+    </customValue>
+    <customValue>
+        <fullName>Blassreiter</fullName>
+        <default>false</default>
+        <label>Blassreiter</label>
+    </customValue>
+    <customValue>
+        <fullName>BlazBlue Alter Memory</fullName>
+        <default>false</default>
+        <label>BlazBlue Alter Memory</label>
+    </customValue>
+    <customValue>
+        <fullName>Blood Blockade Battlefront</fullName>
+        <default>false</default>
+        <label>Blood Blockade Battlefront</label>
+    </customValue>
+    <customValue>
+        <fullName>Blood-C</fullName>
+        <default>false</default>
+        <label>Blood-C</label>
+    </customValue>
+    <customValue>
+        <fullName>Blood-C: The Last Dark</fullName>
+        <default>false</default>
+        <label>Blood-C: The Last Dark</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Gender</fullName>
+        <default>false</default>
+        <label>Blue Gender</label>
+    </customValue>
+    <customValue>
+        <fullName>Boogiepop and Others</fullName>
+        <default>false</default>
+        <label>Boogiepop and Others</label>
+    </customValue>
+    <customValue>
+        <fullName>Braceface</fullName>
+        <default>false</default>
+        <label>Braceface</label>
+    </customValue>
+    <customValue>
+        <fullName>Brothers Conflict</fullName>
+        <default>false</default>
+        <label>Brothers Conflict</label>
+    </customValue>
+    <customValue>
+        <fullName>Bubblegum Crisis Tokyo 2040</fullName>
+        <default>false</default>
+        <label>Bubblegum Crisis Tokyo 2040</label>
+    </customValue>
+    <customValue>
+        <fullName>Buddy Complex</fullName>
+        <default>false</default>
+        <label>Buddy Complex</label>
+    </customValue>
+    <customValue>
+        <fullName>Bullet (2014 film)</fullName>
+        <default>false</default>
+        <label>Bullet (2014 film)</label>
+    </customValue>
+    <customValue>
+        <fullName>Bungo Stray Dogs</fullName>
+        <default>false</default>
+        <label>Bungo Stray Dogs</label>
+    </customValue>
+    <customValue>
+        <fullName>Burst Angel</fullName>
+        <default>false</default>
+        <label>Burst Angel</label>
+    </customValue>
+    <customValue>
+        <fullName>C (TV series)</fullName>
+        <default>false</default>
+        <label>C (TV series)</label>
+    </customValue>
+    <customValue>
+        <fullName>C3 (novel series)</fullName>
+        <default>false</default>
+        <label>C3 (novel series)</label>
+    </customValue>
+    <customValue>
+        <fullName>Cardcaptor Sakura: Clear Card</fullName>
+        <default>false</default>
+        <label>Cardcaptor Sakura: Clear Card</label>
+    </customValue>
+    <customValue>
+        <fullName>Case Closed</fullName>
+        <default>false</default>
+        <label>Case Closed</label>
+    </customValue>
+    <customValue>
+        <fullName>Case Closed: Captured in Her Eyes</fullName>
+        <default>false</default>
+        <label>Case Closed: Captured in Her Eyes</label>
+    </customValue>
+    <customValue>
+        <fullName>Case Closed: Countdown to Heaven</fullName>
+        <default>false</default>
+        <label>Case Closed: Countdown to Heaven</label>
+    </customValue>
+    <customValue>
+        <fullName>Case Closed: The Fourteenth Target</fullName>
+        <default>false</default>
+        <label>Case Closed: The Fourteenth Target</label>
+    </customValue>
+    <customValue>
+        <fullName>Case Closed: The Last Wizard of the Century</fullName>
+        <default>false</default>
+        <label>Case Closed: The Last Wizard of the Century</label>
+    </customValue>
+    <customValue>
+        <fullName>Case Closed: The Phantom of Baker Street</fullName>
+        <default>false</default>
+        <label>Case Closed: The Phantom of Baker Street</label>
+    </customValue>
+    <customValue>
+        <fullName>Case Closed: The Time Bombed Skyscraper</fullName>
+        <default>false</default>
+        <label>Case Closed: The Time Bombed Skyscraper</label>
+    </customValue>
+    <customValue>
+        <fullName>Casshern Sins</fullName>
+        <default>false</default>
+        <label>Casshern Sins</label>
+    </customValue>
+    <customValue>
+        <fullName>Castle Town Dandelion</fullName>
+        <default>false</default>
+        <label>Castle Town Dandelion</label>
+    </customValue>
+    <customValue>
+        <fullName>Cat Planet Cuties</fullName>
+        <default>false</default>
+        <label>Cat Planet Cuties</label>
+    </customValue>
+    <customValue>
+        <fullName>Chain Chronicle</fullName>
+        <default>false</default>
+        <label>Chain Chronicle</label>
+    </customValue>
+    <customValue>
+        <fullName>Chaos;Child (TV series)</fullName>
+        <default>false</default>
+        <label>Chaos;Child (TV series)</label>
+    </customValue>
+    <customValue>
+        <fullName>Chaos;Head (TV series)</fullName>
+        <default>false</default>
+        <label>Chaos;Head (TV series)</label>
+    </customValue>
+    <customValue>
+        <fullName>Chaos Dragon</fullName>
+        <default>false</default>
+        <label>Chaos Dragon</label>
+    </customValue>
+    <customValue>
+        <fullName>Cheer Boys!!</fullName>
+        <default>false</default>
+        <label>Cheer Boys!!</label>
+    </customValue>
+    <customValue>
+        <fullName>Chio&#39;s School Road</fullName>
+        <default>false</default>
+        <label>Chio&#39;s School Road</label>
+    </customValue>
+    <customValue>
+        <fullName>Chobits</fullName>
+        <default>false</default>
+        <label>Chobits</label>
+    </customValue>
+    <customValue>
+        <fullName>Chrome Shelled Regios</fullName>
+        <default>false</default>
+        <label>Chrome Shelled Regios</label>
+    </customValue>
+    <customValue>
+        <fullName>Chrono Crusade</fullName>
+        <default>false</default>
+        <label>Chrono Crusade</label>
+    </customValue>
+    <customValue>
+        <fullName>Chronos Ruler</fullName>
+        <default>false</default>
+        <label>Chronos Ruler</label>
+    </customValue>
+    <customValue>
+        <fullName>Chuck E. Cheese in the Galaxy 5000</fullName>
+        <default>false</default>
+        <label>Chuck E. Cheese in the Galaxy 5000</label>
+    </customValue>
+    <customValue>
+        <fullName>Citrus (manga)</fullName>
+        <default>false</default>
+        <label>Citrus (manga)</label>
+    </customValue>
+    <customValue>
+        <fullName>City Under Siege (2010 film)</fullName>
+        <default>false</default>
+        <label>City Under Siege (2010 film)</label>
+    </customValue>
+    <customValue>
+        <fullName>Classroom of the Elite</fullName>
+        <default>false</default>
+        <label>Classroom of the Elite</label>
+    </customValue>
+    <customValue>
+        <fullName>Claymore (manga)</fullName>
+        <default>false</default>
+        <label>Claymore (manga)</label>
+    </customValue>
+    <customValue>
+        <fullName>Clockwork Planet</fullName>
+        <default>false</default>
+        <label>Clockwork Planet</label>
+    </customValue>
+    <customValue>
+        <fullName>Code:Breaker</fullName>
+        <default>false</default>
+        <label>Code:Breaker</label>
+    </customValue>
+    <customValue>
+        <fullName>Code: Realize − Guardian of Rebirth</fullName>
+        <default>false</default>
+        <label>Code: Realize − Guardian of Rebirth</label>
+    </customValue>
+    <customValue>
+        <fullName>Code Geass</fullName>
+        <default>false</default>
+        <label>Code Geass</label>
+    </customValue>
+    <customValue>
+        <fullName>Code Geass: Lelouch of the Re;surrection</fullName>
+        <default>false</default>
+        <label>Code Geass: Lelouch of the Re;surrection</label>
+    </customValue>
+    <customValue>
+        <fullName>Comic Party</fullName>
+        <default>false</default>
+        <label>Comic Party</label>
+    </customValue>
+    <customValue>
+        <fullName>Conception (video game)</fullName>
+        <default>false</default>
+        <label>Conception (video game)</label>
+    </customValue>
+    <customValue>
+        <fullName>Concrete Revolutio</fullName>
+        <default>false</default>
+        <label>Concrete Revolutio</label>
+    </customValue>
+    <customValue>
+        <fullName>Confucius (2010 film)</fullName>
+        <default>false</default>
+        <label>Confucius (2010 film)</label>
+    </customValue>
+    <customValue>
+        <fullName>Convenience Store Boy Friends</fullName>
+        <default>false</default>
+        <label>Convenience Store Boy Friends</label>
+    </customValue>
+    <customValue>
+        <fullName>Corpse Princess</fullName>
+        <default>false</default>
+        <label>Corpse Princess</label>
+    </customValue>
+    <customValue>
+        <fullName>Cowboy Bebop</fullName>
+        <default>false</default>
+        <label>Cowboy Bebop</label>
+    </customValue>
+    <customValue>
+        <fullName>Coyote Ragtime Show</fullName>
+        <default>false</default>
+        <label>Coyote Ragtime Show</label>
+    </customValue>
+    <customValue>
+        <fullName>Crayon Shin-chan</fullName>
+        <default>false</default>
+        <label>Crayon Shin-chan</label>
+    </customValue>
+    <customValue>
+        <fullName>Crest of the Stars</fullName>
+        <default>false</default>
+        <label>Crest of the Stars</label>
+    </customValue>
+    <customValue>
+        <fullName>Le Chevalier D&#39;Eon</fullName>
+        <default>false</default>
+        <label>Le Chevalier D&#39;Eon</label>
+    </customValue>
+    <customValue>
+        <fullName>The 14 Amazons</fullName>
+        <default>false</default>
+        <label>The 14 Amazons</label>
+    </customValue>
+    <customValue>
+        <fullName>The Ancient Magus&#39; Bride</fullName>
+        <default>false</default>
+        <label>The Ancient Magus&#39; Bride</label>
+    </customValue>
+    <customValue>
+        <fullName>The Betrayal Knows My Name</fullName>
+        <default>false</default>
+        <label>The Betrayal Knows My Name</label>
+    </customValue>
+    <customValue>
+        <fullName>The Boy and the Beast</fullName>
+        <default>false</default>
+        <label>The Boy and the Beast</label>
+    </customValue>
+    <masterLabel>Articles</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

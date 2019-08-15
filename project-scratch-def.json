@@ -1,0 +1,119 @@
+{
+  "orgName": "NSS",
+  "edition": "Enterprise",
+  "features": [
+    "API",
+    "DebugApex",
+    "DefaultWorkflowUser",
+    "ForceComPlatform",
+    "MultiCurrency",
+    "PersonAccounts",
+    "LightningSalesConsole",
+    "LightningServiceConsole",
+    "ServiceCloud",
+    "ContactsToMultipleAccounts",
+    "StateAndCountryPicklist"
+  ],
+  "settings": {
+    "orgPreferenceSettings": {
+        "chatterEnabled": true,
+        "socialProfilesEnable": true,
+        "translation": true,
+        "s1DesktopEnabled": true,
+        "s1OfflinePref": true,
+        "s1EncryptedStoragePref2": true,
+        "offlineDraftsEnabled": true,
+        "selfSetPasswordInApi": true,
+        "enhancedEmailEnabled": true,
+        "eventLogWaveIntegEnabled": false,
+        "sendThroughGmailPref": false,
+        "loginForensicsEnabled": false,
+        "pathAssistantsEnabled": false,
+        "disableParallelApexTesting": false,
+        "networksEnabled": false,
+        "analyticsSharingEnable": false,
+        "voiceEnabled": false
+    },
+    "accountSettings": {
+        "showViewHierarchyLink": true,
+        "enableAccountTeams": false
+    },
+    "activitiesSettings": {
+        "enableActivityReminders": true,
+        "enableDragAndDropScheduling": true,
+        "enableEmailTracking": true,
+        "enableGroupTasks": true,
+        "enableMultidayEvents": true,
+        "enableRecurringEvents": true,
+        "enableRecurringTasks": true,
+        "enableSimpleTaskCreateUI": true,
+        "showHomePageHoverLinksForEvents": true,
+        "showMyTasksHoverLinks": true,
+        "enableSidebarCalendarShortcut": false,
+        "showEventDetailsMultiUserCalendar": false
+    },
+    "contractSettings": {
+        "autoCalculateEndDate": true,
+        "enableContractHistoryTracking": false,
+        "notifyOwnersOnContractExpiration": false
+    },
+    "entitlementSettings": {
+        "enableEntitlements": true,
+        "assetLookupLimitedToActiveEntitlementsOnAccount": false,
+        "assetLookupLimitedToActiveEntitlementsOnContact": false,
+        "assetLookupLimitedToSameAccount": false,
+        "assetLookupLimitedToSameContact": false,
+        "entitlementLookupLimitedToActiveStatus": false,
+        "entitlementLookupLimitedToSameAccount": false,
+        "entitlementLookupLimitedToSameAsset": false,
+        "entitlementLookupLimitedToSameContact": false
+    },
+    "ideasSettings": {
+        "enableIdeas": true,
+        "enableChatterProfile": false,
+        "enableIdeaThemes": false,
+        "enableIdeasReputation": false
+    },
+    "orderSettings": {
+        "enableOrders": true,
+        "enableNegativeQuantity": false,
+        "enableReductionOrders": false
+    },
+    "productSettings": {
+        "enableCascadeActivateToRelatedPrices": true,
+        "enableQuantitySchedule": false,
+        "enableRevenueSchedule": false
+    },
+    "searchSettings": {
+        "documentContentSearchEnabled": true,
+        "recentlyViewedUsersForBlankLookupEnabled": true,
+        "sidebarAutoCompleteEnabled": true,
+        "sidebarDropDownListEnabled": true,
+        "sidebarLimitToItemsIOwnCheckboxEnabled": true,
+        "singleSearchResultShortcutEnabled": true,
+        "optimizeSearchForCJKEnabled": false,
+        "spellCorrectKnowledgeSearchEnabled": false,
+        "searchSettingsByObject":{
+          "searchSettingsByObject": {
+            "enhancedLookupEnabled": true,
+            "lookupAutoCompleteEnabled": true,
+            "name": "Account",
+            "resultsPerPageCount":20
+          }
+        }
+    },
+    "nameSettings": {
+        "enableMiddleName": true,
+        "enableNameSuffix": false
+    },
+    "forecastingSettings": {
+        "enableForecasts": false
+    },
+    "opportunitySettings": {
+        "enableOpportunityTeam": false
+    },
+    "quoteSettings": {
+        "enableQuote": false
+    }
+  }
+}

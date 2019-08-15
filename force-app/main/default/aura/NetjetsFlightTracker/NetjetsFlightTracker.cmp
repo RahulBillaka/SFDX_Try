@@ -1,0 +1,15 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes" access="global" >
+	<lightning:tabset>
+        <lightning:tab label="Flight Tracker">
+            <div style="background-color:DarkBlue ">
+ 				 
+			</div>
+        </lightning:tab>
+        <lightning:tab label="Cabin" title="2nd tab extended title">
+            Two Content !
+        </lightning:tab>
+        <lightning:tab label="Entertainment">
+            Three Content !
+        </lightning:tab>
+    </lightning:tabset>
+</aura:component>

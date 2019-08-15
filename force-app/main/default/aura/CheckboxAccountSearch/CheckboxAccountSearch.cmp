@@ -1,0 +1,12 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+	
+    <aura:attribute name="search" type="String"/>
+    
+ <!--   <aura:attribute name="accountSearchComplete" type="accountSearchCompleteEvent"/> -->
+    
+    <lightning:input type="text" label="Enter Account Name" aura:id="searchTerm" value="{!v.searchTerm}" />
+    
+    <lightning:button label="Search" onclick="{!c.SearchAccount}" />
+    
+    
+</aura:component>

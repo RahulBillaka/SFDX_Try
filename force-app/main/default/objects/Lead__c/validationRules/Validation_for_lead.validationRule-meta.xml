@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Validation_for_lead</fullName>
+    <active>true</active>
+    <description>Last name and company name cannot be null</description>
+    <errorConditionFormula>ISNULL( Company__c )  &amp;&amp;  ISNULL( Last_Name__c ) &amp;&amp; ISNULL( Name )</errorConditionFormula>
+    <errorMessage>These fields cannot be null value</errorMessage>
+</ValidationRule>

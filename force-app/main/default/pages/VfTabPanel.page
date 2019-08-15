@@ -1,0 +1,9 @@
+<apex:page id="thepage">
+    <apex:tabPanel >
+    <apex:tab label="Home" name="home1" id="tabone">A global merge field type to use when referencing standard Salesforce actions such as displaying the Accounts tab home page, creating new accounts, editing accounts, and deleting accounts.
+    </apex:tab>
+    <apex:tab label="Variables" name="Variables2" id="tab2">A global merge field to use when referencing the label of an inputField component on a Visualforce page that is associated with a message.
+     
+     </apex:tab>
+     </apex:tabPanel>    
+</apex:page>

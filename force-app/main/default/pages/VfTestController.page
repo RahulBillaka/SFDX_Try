@@ -1,0 +1,23 @@
+<apex:page controller="TestControllerOpportunity">
+  <apex:form >
+  <apex:pageBlock >
+  <apex:pageblocksection >
+      <apex:inputField value="{!opportunity.Name}"/>
+      <apex:inputField value="{!opportunity.StageName}"/>
+      <apex:inputField value="{!opportunity.Type}"/>
+      <div class="childDiv" style="width:90%;">
+      <p>
+            A change has been submitted on the above project which requires your approval. An indication of the changes is provided
+            below for your convenience. Nevertheless, please refer to the project plan in detail where appropriate.
+            </p>
+             <p>
+            Please approve or reject this item by clicking on the link above or replying to this email with the words 'approve • approved • yes • reject • rejected • no'. Any additional comments to be recorded can be added in a second line of the email reply. <b>Please note you will need a valid Oracle token to approve or reject by email.</b>
+            </p>
+       </div>     
+  </apex:pageblocksection>
+  <apex:pageBlockButtons >
+      <apex:commandButton value="Save" action="{!Save}"/>
+  </apex:pageBlockButtons>
+  </apex:pageBlock>
+  </apex:form>
+</apex:page>

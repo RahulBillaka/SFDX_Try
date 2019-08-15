@@ -1,0 +1,6 @@
+<apex:page controller="HelloBook">
+<apex:form >
+<apex:outputlabel value="HelloBook"/>
+<!--<apex:inputText return={!/-->
+ </apex:form>
+</apex:page>

@@ -1,0 +1,15 @@
+<aura:component >
+	<aura:attribute name="myNumber1" type="integer" default="0"/>
+    <aura:attribute name="myNumber2" type="integer" default="0"/>
+    <aura:attribute name="total" type="integer" default="0"/>
+    
+    <ui:inputNumber label="Enter a number: " value="{!v.myNumber1}" /> 
+    <ui:inputNumber label="Enter a number: " value="{!v.myNumber2}" /> 
+    Total: {!v.total}<br/>
+    <button onclick="{!c.sum}">SUM</button>
+    <button onclick="{!c.sub}">SUB</button>
+    <button onclick="{!c.mul}">MUL</button>
+    <button onclick="{!c.div}">DIV</button>
+    
+    
+</aura:component>

@@ -1,0 +1,9 @@
+.THIS {
+    background:white;
+}
+.THIS .mytable{
+    width:100%;
+}
+.THIS .mytable th{
+    background:red;
+}

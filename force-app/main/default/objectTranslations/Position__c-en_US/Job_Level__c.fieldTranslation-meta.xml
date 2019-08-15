@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Job Level --></label>
+    <name>Job_Level__c</name>
+    <picklistValues>
+        <masterLabel>Experienced Developer</masterLabel>
+        <translation><!-- Experienced Developer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fresher Developer</masterLabel>
+        <translation><!-- Fresher Developer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>IK-11</masterLabel>
+        <translation><!-- IK-11 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>IK-22</masterLabel>
+        <translation><!-- IK-22 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>IK-33</masterLabel>
+        <translation><!-- IK-33 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MK-11</masterLabel>
+        <translation><!-- MK-11 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MK-22</masterLabel>
+        <translation><!-- MK-22 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MK-33</masterLabel>
+        <translation><!-- MK-33 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mid Level Developer</masterLabel>
+        <translation><!-- Mid Level Developer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SK-11</masterLabel>
+        <translation><!-- SK-11 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SK-22</masterLabel>
+        <translation><!-- SK-22 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SK-33</masterLabel>
+        <translation><!-- SK-33 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Senior Developer</masterLabel>
+        <translation><!-- Senior Developer --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

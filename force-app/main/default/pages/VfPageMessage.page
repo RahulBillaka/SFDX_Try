@@ -1,0 +1,7 @@
+<apex:page >
+ <apex:pageblock >
+         <apex:pageMessage summary="This pageMessage will always display. Validation error 
+           messages appear in the pageMessages component." severity="warning" strength="3" />
+        <apex:pageMessages />
+ </apex:pageblock>
+</apex:page>

@@ -1,0 +1,15 @@
+<apex:page controller="VfCustomControllerExample" sidebar="false">
+ <apex:form >
+   <apex:pageBlock >
+       <apex:pageblocksection >
+           <apex:inputField value="{!account.name}"/>
+           <apex:inputField value="{!account.phone}"/>
+           <apex:inputField value="{!account.industry}"/>
+           <apex:inputField value="{!account.AccountNumber}"/>
+       </apex:pageblocksection>
+       <apex:pageblockButtons >
+       <apex:commandButton value="Save" action="{!Save}"/>
+       </apex:pageblockButtons>
+   </apex:pageBlock> 
+ </apex:form>
+</apex:page>

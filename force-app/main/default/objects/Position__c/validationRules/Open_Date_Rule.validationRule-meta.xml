@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Open_Date_Rule</fullName>
+    <active>true</active>
+    <description>Open date can be current date or any date in future</description>
+    <errorConditionFormula>Open_Date__c   &lt;  TODAY()</errorConditionFormula>
+    <errorDisplayField>Open_Date__c</errorDisplayField>
+    <errorMessage>Open Date cannot be in the past.</errorMessage>
+</ValidationRule>

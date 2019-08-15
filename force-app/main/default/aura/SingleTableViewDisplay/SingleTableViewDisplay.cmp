@@ -1,0 +1,26 @@
+<aura:component controller = "SingleTableViewWrapper" implements="force:appHostable,flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+           <aura:attribute name="TableList" type="object" /> 
+    
+    <div class="slds-p-around--large">
+    	<table class="slds-table slds-table--bordered slds-table--cell-buffer" >
+        	<tr class="slds-text-title--caps">
+               <div class="slds-truncate" title="Contact">Contacts</div>
+            </tr>
+        </table>
+        
+        <tbody>
+          <aura:iteration items="{!v.Contact}" var="Contact">
+             <tr>
+               <th scope="row">
+               		<div class="slds-truncate" title="Contact">Contacts</div>  
+               </th> 
+             </tr>  
+          </aura:iteration>
+        </tbody>
+    
+    
+    </div>
+    
+</aura:component>

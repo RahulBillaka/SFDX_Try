@@ -7,6 +7,7 @@ public class AccountCustomController {
         public AccountCustomController() {
         account=[Select Id,Name,Site from Account where Id=:ApexPages.currentpage().getParameters().get('Id')];
         }
+        
         public Account getAccount(){
         return null;
         }

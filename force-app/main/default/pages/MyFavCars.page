@@ -1,7 +1,0 @@
-<apex:page >
-  
-  <h1> MyFavCars </h1>
-  
-  <apex:outputLink >http:www.google.com</apex:outputLink>
-  
-</apex:page>

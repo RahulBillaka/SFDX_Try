@@ -1,8 +1,0 @@
-<apex:page >
-    <apex:panelBar >
-        <apex:panelBarItem label="Item 1" onenter="alert('Entering Item 1');" onleave="alert('Leaving Item 1');" >One Piece</apex:panelBarItem>
-        <apex:panelBarItem label="Item 2" onenter="alert('Entering Item 2');" onleave="alert('Leaving Item 2');">Batman</apex:panelBarItem>
-    
-    
-    </apex:panelBar>
-</apex:page>

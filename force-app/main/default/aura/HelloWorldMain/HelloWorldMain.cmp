@@ -1,4 +1,0 @@
-<aura:component >
-    <c:HelloWorld />
-    <c:HelloWorld1 />
-</aura:component>

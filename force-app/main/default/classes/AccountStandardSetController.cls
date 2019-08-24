@@ -9,6 +9,7 @@ public class AccountStandardSetController {
            }
        set;
           }
+          // example.org 
           public List<Account> getAccounts() {
              return (List<Account>)acct.getRecords();     
 }

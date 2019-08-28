@@ -6,14 +6,22 @@
             "package": "Packaging 1.1",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "Packaging 1.3",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "46.0",
     "packageAliases": {
-        "Packaging 1.1": "0Ho1I000000fxWrSAI",
+        "Packaging 1.1": "0Ho0a000000000LCAQ",
         "Packaging 1.1@0.1.0-1": "04t1I000003JYRXQA4",
-        "Packaging 1.1@0.1.0-2": "04t1I000003JYRcQAO"
+        "Packaging 1.1@0.1.0-2": "04t1I000003JYRcQAO",
+        "Packaging 1.3": "0Ho0a000000000QCAQ"
     }
 }
